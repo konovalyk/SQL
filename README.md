@@ -1,1 +1,1 @@
-# email_&_account_metrics - це вибірка та підготовка даних для візуалізації та аналізу по email метрикам
+# email_&_account_metrics - This is the selection and preparation of data for visualization and analysis of email metrics.
